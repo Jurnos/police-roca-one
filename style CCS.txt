@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Roca';
+    src: local('Roca One Light'), local('Roca-One-Light'),
+        url('https://jurnos.github.io/police-roca-one/RocaOne-Lt.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+  }
